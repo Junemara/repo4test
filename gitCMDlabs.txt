@@ -1,0 +1,14 @@
+[X]git reference
+
+1. Create, push and view references of a commit.
+2. Tag the commit.
+
+[X]branches
+
+1. Create and checkout a branch.
+2. Create commits on the branch.
+3. Checkout an old commit.
+4. Delete a branch.
+
+-Push this file
+
